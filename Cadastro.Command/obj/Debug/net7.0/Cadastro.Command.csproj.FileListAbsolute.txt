@@ -1,0 +1,15 @@
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\bin\Debug\net7.0\Cadastro.Command.deps.json
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\bin\Debug\net7.0\Cadastro.Command.dll
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\bin\Debug\net7.0\Cadastro.Command.pdb
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\obj\Debug\net7.0\Cadastro.Command.csproj.AssemblyReference.cache
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\obj\Debug\net7.0\Cadastro.Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\obj\Debug\net7.0\Cadastro.Command.AssemblyInfoInputs.cache
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\obj\Debug\net7.0\Cadastro.Command.AssemblyInfo.cs
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\obj\Debug\net7.0\Cadastro.Command.csproj.CoreCompileInputs.cache
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\obj\Debug\net7.0\Cadastro.Command.dll
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\obj\Debug\net7.0\refint\Cadastro.Command.dll
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\obj\Debug\net7.0\Cadastro.Command.pdb
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\obj\Debug\net7.0\ref\Cadastro.Command.dll
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\bin\Debug\net7.0\Cadastro.CommandStore.dll
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\bin\Debug\net7.0\Cadastro.CommandStore.pdb
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Command\obj\Debug\net7.0\Cadastro.Command.csproj.CopyComplete

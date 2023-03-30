@@ -1,0 +1,15 @@
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\bin\Debug\net7.0\Cadastro.Query.deps.json
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\bin\Debug\net7.0\Cadastro.Query.dll
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\bin\Debug\net7.0\Cadastro.Query.pdb
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\bin\Debug\net7.0\Cadastro.CommandStore.dll
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\bin\Debug\net7.0\Cadastro.CommandStore.pdb
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\obj\Debug\net7.0\Cadastro.Query.csproj.AssemblyReference.cache
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\obj\Debug\net7.0\Cadastro.Query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\obj\Debug\net7.0\Cadastro.Query.AssemblyInfoInputs.cache
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\obj\Debug\net7.0\Cadastro.Query.AssemblyInfo.cs
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\obj\Debug\net7.0\Cadastro.Query.csproj.CoreCompileInputs.cache
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\obj\Debug\net7.0\Cadastro.Query.csproj.CopyComplete
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\obj\Debug\net7.0\Cadastro.Query.dll
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\obj\Debug\net7.0\refint\Cadastro.Query.dll
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\obj\Debug\net7.0\Cadastro.Query.pdb
+C:\Users\Acer\angularnet\MediatRRestExample\Cadastro.Query\obj\Debug\net7.0\ref\Cadastro.Query.dll
